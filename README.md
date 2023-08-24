@@ -1,5 +1,5 @@
 Problem statement: Create a classification model to predict whether a person makes over $50k a
-year
+year.
 
 
 Context: This data was extracted from the 1994 Census bureau database by Ronny Kohavi and Barry
